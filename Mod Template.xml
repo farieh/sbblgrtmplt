@@ -2067,10 +2067,10 @@ $(this).html("ON").addClass("turnedOff");
                </div>
                <div class='post-snippet'><b:if cond='data:post.snippet'><data:post.snippet/></b:if></div>
 			<div id='post-foot'>
-               <div class='post-readmore'><a expr:href='data:post.url'>Play <i class='fa fa-play'/></a></div>
+               
 <div class='post-sharebtn'><div class='share-container'/>
               
-               <div class='g-plusone'/>
+               
               </div>
              </div>
              </div>
@@ -2710,7 +2710,7 @@ $(this).html("ON").addClass("turnedOff");
       gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
         if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d7909366523417740976\x26blogName\x3dSekolah+Bisnis+\x26publishMode\x3dPUBLISH_MODE_HOSTED\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://www.sekolahbisnis.info/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://www.sekolahbisnis.info/\x26vt\x3d-1408055819970457113&#39;,
+              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d7909366523417740976\x26blogName\x3dSekolah+Bisnis\x26publishMode\x3dPUBLISH_MODE_HOSTED\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://www.sekolahbisnis.info/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://www.sekolahbisnis.info/\x26vt\x3d-1408055819970457113&#39;,
               where: document.getElementById(&quot;navbar-iframe-container&quot;),
               id: &quot;navbar-iframe&quot;
           });
