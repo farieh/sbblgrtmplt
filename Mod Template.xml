@@ -6,6 +6,15 @@
 <link href='//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet'/>
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
 <meta content='X9rJaD87bx3dTs1W5SSCXlAGE1qv_pXDNWSgHN_AF4o' name='google-site-verification'/>
+<script type='text/javascript'>
+    var _mfq = _mfq || [];
+    (function() {
+        var mf = document.createElement(&quot;script&quot;);
+        mf.type = &quot;text/javascript&quot;; mf.async = true;
+        mf.src = &quot;//cdn.mouseflow.com/projects/e6fa0c7a-c7e8-443b-a3a7-1064e61ef1bf.js&quot;;
+        document.getElementsByTagName(&quot;head&quot;)[0].appendChild(mf);
+    })();
+</script>
 <title><b:if cond='data:blog.pageType == &quot;index&quot;'>
 <data:blog.pageTitle/>
 <b:else/>
@@ -1302,7 +1311,7 @@ $(this).html("ON").addClass("turnedOff");
 <div id='outer-wrapper'>
 <div class='row' id='content-wrapper'>
   <b:section class='ticker' id='ticker' maxwidgets='1' showaddelement='yes'>
-    <b:widget id='HTML4' locked='false' title='Best' type='HTML' visible='true'>
+    <b:widget id='HTML4' locked='false' title='' type='HTML' visible='true'>
       <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
